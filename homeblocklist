@@ -25,6 +25,13 @@ connect1.myqdevice.com
 14.165.217.172.in-addr.arpa	
 172.217.164.238	
 
+#twitch
+api.mixpanel.com
+spade.twitch.tv
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
+
+
 #generic 
 www.vwa.la	
 firebaseremoteconfig.googleapis.com
