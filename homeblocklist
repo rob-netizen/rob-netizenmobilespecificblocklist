@@ -2,14 +2,17 @@
 ads.roku.com
 austin.logs.roku.com
 cooper.logs.roku.com
+display.ravm.tv
 giga.logs.roku.com
 griffin.logs.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
 logs.roku.com
 midlands.logs.roku.com
+midland.logs.roku.com
 mobile.logs.roku.com
 paolo.logs.roku.com
+ravm.tv
 scribe.logs.roku.com
 sugarland.logs.roku.com
 samples.voice.cti.roku.com	
@@ -49,10 +52,181 @@ ypu.samsungelectronics.com
 otnprd9.samsungcloudsolution.net
 samsungcloudsolution.net
 apps.samsungcloudcdn.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+ads.samsungads.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+az43064.vo.msecnd.net
+cdn.samsungcloudsolution.net
+configprd.samsungcloudsolution.net
+connecttv.pelmorex.com # weather app tracking
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+cpu.samsungelectronics.com
+d179kwmlpc4o47.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
+d1jwpcr0q4pcq0.cloudfront.net
+#d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
+d2tnx644ijgq6i.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
+d37ju0xanoz6gh.cloudfront.net
+dev-multiscreen.samsung.com
+device-metrics-us.amazon.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
+game.internetat.tv
+gld.samsungosp.com
+gpm.samsungqbe.com
+i-stream.pl
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log.internetat.tv
+multiscreen.samsung.com
+musicid.samsungcloudsolution.com
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
+prderrordumphsm.samsungcloudsolution.com
+openapi.samsung.com
+osb-apps.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb.samsungqbe.com
+pavv.co.kr
+pipeaota.com
+premium-videos.telly.com
+prov.samsungcloudsolution.com
+rd.samsungadhub.com
+rwww.samsungotn.net
+samsungacr.com
+samsungadhub.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungqbe.com
+samsungrm.net
+sas.samsungcloudsolution.com
+sca.samsung.com
+sso.internetat.tv # account login
+syncplusconfig.s3.amazonaws.com
+targeted-config-test.samsungacr.com
+test.samsungrm.net
+us-api.samsungyosemite.com
+vd.emp.prd.s3.amazonaws.com
+vdterms.samsungcloudsolution.com
+www.samsungrm.net
+samsungelectronics.com
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+upu.samsungelectronics.com
+zpu.samsungelectronics.com
+xpu.samsungelectronics.com
+ypu.samsungelectronics.com
+vd.contents.prod.eu.s3.amazonaws.com
+log-ingestion-eu.samsungacr.com
+data.arqiva.tv
+cloud.arqiva.tv
+ad.samsungadhub.com
+ads.aimitv.com
+d37ju0xanoz6gh.cloudfront.net
+rd.samsungadhub.com
+samsungadhub.com
+samsungads.com
+gamespromotion.samsungcloudsolution.com
+#auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
+#cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
+#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+#lcprd1.samsungcloudsolution.net # ping test, no beaconing
+#otnprd10.samsungcloudsolution.net # required for software update
+#otnprd11.samsungcloudsolution.net # required for software update
+#otnprd8.samsungcloudsolution.net # required for software update
+#otnprd9.samsungcloudsolution.net # required for software update
+#samsungosp.com
+#samsungotn.net # system update check on Samsung UE65RU7455
+#time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+#www.samsungotn.net # required for software update
+#osb-ussvc.samsungqbe.com # required for TV Plus
+#otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+#ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+
+# LG
+ad.lgappstv.com
+ibis.lgappstv.com
+lgad.cjpowercast.com.edgesuite.net
+# ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+
+# Philips
+#deviceportal.nettvservices.com # needed for apps
+#epg.corio.com # needed for apps
+legacyportal.nettvservices.com
+nettv.corio.com
+#www.ecdinterface.philips.com # Philips Hue Bridge
+ad.nettvservices.com
+
+# Other useless connections from Smart-TV
+2mdn.net
+ad.71i.de
+adv.ettoday.net
+advertising.com
+api.nfl.com
+# apicache.vudu.com # needed for Vudu's app, see issue22
+cdn.smartclip.net
+cdns-content.dzcdn.net
+cert-test.sandbox.google.com
+database01p.anixe.net
+de.ioam.de
+#drscdn.500px.org # blocks 500px on desktop
+# geo.opera.com # blocks opera update
+googleads.g.doubleclick.net
+# itv.ard.de # ARD media lib - HBBTV 
+nbc-jite.nbcuni.com
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
+script.ioam.de
+start.digitaltext.rtl.de
+stats-irl.sxp.smartclip.net
+trvdp.com
+tv-static.scdn.co
+#tv.deezer.com # Breaks Deezer's smart-TV apps.
+xml.opera.com
 
 #garage 
 connect.myqdevice.com	
 connect1.myqdevice.com	
+
+# Netflix
+# secure, api-global, and appboot break Netflix
+#secure.netflix.com                   
+#api-global.netflix.com
+#appboot.netflix.com
+#nrdp.nccp.netflix.com
+ichnaea.netflix.com
+customerevents.netflix.com
+
+
+# Spotify
+#api-tv.spotify.com # required for TV and PS4 spotify app
+
+# Hulu
+api.distribution.hulu.com
 
 #some youtube
 172.217.165.14	
